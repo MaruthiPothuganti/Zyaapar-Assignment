@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.employeeCard {
+  border: 1px solid black;
+  margin: 1rem;
+}
